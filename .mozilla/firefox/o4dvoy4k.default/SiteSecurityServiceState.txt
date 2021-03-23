@@ -1,0 +1,6 @@
+search.services.mozilla.com:HSTS	0	18708	1632159087320,1,0,2
+www.youtube.com:HSTS	0	18708	1647927097172,1,0,2
+location.services.mozilla.com:HSTS	0	18708	1647927086530,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18708	1647927088233,1,1,2
+fonts.googleapis.com:HSTS	0	18708	1647927091316,1,0,2
+accounts.google.com:HSTS	0	18708	1647927090760,1,1,2
